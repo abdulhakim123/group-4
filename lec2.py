@@ -29,7 +29,7 @@ pip install pyqt5
 pip install pyqt5-tools
 
 #hello abood
-
+######1232
 import PyQt5
 
 from PyQt5.QtWidgets import QApplication, QWidget
